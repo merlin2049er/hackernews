@@ -40,7 +40,8 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'devise'
 
 #bootstrap
-gem 'bootstrap', '~> 4.1.3'
+#gem 'bootstrap', '~> 4.1.3'
+gem 'bootstrap-sass', '~> 3.2.0.2'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'rails-ujs', '~> 0.1.0'
 
